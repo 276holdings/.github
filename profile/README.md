@@ -25,4 +25,3 @@
 - 김준성 : Backend Developer — BE Dev
 - 조민선 : Product Manager
 - 장세희 : Product Designer
-- 김경서 : AI Engineer — AI R&D
